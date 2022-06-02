@@ -1,0 +1,2 @@
+class NonStateActor < ApplicationRecord
+end
